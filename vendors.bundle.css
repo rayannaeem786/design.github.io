@@ -403,7 +403,7 @@ yx-axis
 .mCSB_scrollTools .mCSB_buttonDown,
 .mCSB_scrollTools .mCSB_buttonLeft,
 .mCSB_scrollTools .mCSB_buttonRight {
-  background-image: url("images/malihu-custom-scrollbar-plugin/mCSB_buttons.png");
+  background-image: url("images/malihu-custom-scrollbar-plugin/mCSB_buttons.html");
   /* css sprites */
   background-repeat: no-repeat;
   opacity: 0.4;
@@ -4067,7 +4067,7 @@ select.selectpicker {
 .irs-bar,
 .irs-bar-edge,
 .irs-slider {
-  background: url("images/ion-rangeslider/sprite-skin-flat.png") repeat-x; }
+  background: url("images/ion-rangeslider/sprite-skin-flat.html") repeat-x; }
 
 .irs {
   height: 40px; }
@@ -4602,8 +4602,8 @@ select.selectpicker {
   font-family: "summernote";
   font-style: normal;
   font-weight: normal;
-  src: url("fonts/summernote/summernote.eot?e557617934c52ea068954af79ed7c221");
-  src: url("fonts/summernote/summernote.eot?#iefix") format("embedded-opentype"), url("fonts/summernote/summernote.woff?e557617934c52ea068954af79ed7c221") format("woff"), url("fonts/summernote/summernote.ttf?e557617934c52ea068954af79ed7c221") format("truetype"); }
+  src: url("fonts/summernote/summernote4c4d.html?e557617934c52ea068954af79ed7c221");
+  src: url("fonts/summernote/summernoted41d.html?#iefix") format("embedded-opentype"), url("fonts/summernote/summernote4c4d-2.html?e557617934c52ea068954af79ed7c221") format("woff"), url("fonts/summernote/summernote4c4d-3.html?e557617934c52ea068954af79ed7c221") format("truetype"); }
 
 [class^="note-icon-"]:before, [class*=" note-icon-"]:before {
   display: inline-block;
@@ -8286,7 +8286,7 @@ button.toast-close-button {
 
 .jstree-default .jstree-node,
 .jstree-default .jstree-icon {
-  background-image: url("images/jstree/32px.png"); }
+  background-image: url("images/jstree/32px.html"); }
 
 .jstree-default .jstree-node {
   background-position: -292px -4px;
@@ -8391,13 +8391,13 @@ button.toast-close-button {
   background-position: 0 0; }
 
 .jstree-default > .jstree-container-ul .jstree-loading > .jstree-ocl {
-  background: url("images/jstree/throbber.gif") center center no-repeat; }
+  background: url("images/jstree/throbber.html") center center no-repeat; }
 
 .jstree-default .jstree-file {
-  background: url("images/jstree/32px.png") -100px -68px no-repeat; }
+  background: url("images/jstree/32px.html") -100px -68px no-repeat; }
 
 .jstree-default .jstree-folder {
-  background: url("images/jstree/32px.png") -260px -4px no-repeat; }
+  background: url("images/jstree/32px.html") -260px -4px no-repeat; }
 
 .jstree-default > .jstree-container-ul > .jstree-node {
   margin-left: 0;
@@ -8409,7 +8409,7 @@ button.toast-close-button {
 
 #jstree-dnd.jstree-default .jstree-ok,
 #jstree-dnd.jstree-default .jstree-er {
-  background-image: url("images/jstree/32px.png");
+  background-image: url("images/jstree/32px.html");
   background-repeat: no-repeat;
   background-color: transparent; }
 
@@ -8470,7 +8470,7 @@ button.toast-close-button {
 
 .jstree-default-small .jstree-node,
 .jstree-default-small .jstree-icon {
-  background-image: url("images/jstree/32px.png"); }
+  background-image: url("images/jstree/32px.html"); }
 
 .jstree-default-small .jstree-node {
   background-position: -295px -7px;
@@ -8575,13 +8575,13 @@ button.toast-close-button {
   background-position: 0 0; }
 
 .jstree-default-small > .jstree-container-ul .jstree-loading > .jstree-ocl {
-  background: url("images/jstree/throbber.gif") center center no-repeat; }
+  background: url("images/jstree/throbber.html") center center no-repeat; }
 
 .jstree-default-small .jstree-file {
-  background: url("images/jstree/32px.png") -103px -71px no-repeat; }
+  background: url("images/jstree/32px.html") -103px -71px no-repeat; }
 
 .jstree-default-small .jstree-folder {
-  background: url("images/jstree/32px.png") -263px -7px no-repeat; }
+  background: url("images/jstree/32px.html") -263px -7px no-repeat; }
 
 .jstree-default-small > .jstree-container-ul > .jstree-node {
   margin-left: 0;
@@ -8593,7 +8593,7 @@ button.toast-close-button {
 
 #jstree-dnd.jstree-default-small .jstree-ok,
 #jstree-dnd.jstree-default-small .jstree-er {
-  background-image: url("images/jstree/32px.png");
+  background-image: url("images/jstree/32px.html");
   background-repeat: no-repeat;
   background-color: transparent; }
 
@@ -8654,7 +8654,7 @@ button.toast-close-button {
 
 .jstree-default-large .jstree-node,
 .jstree-default-large .jstree-icon {
-  background-image: url("images/jstree/32px.png"); }
+  background-image: url("images/jstree/32px.html"); }
 
 .jstree-default-large .jstree-node {
   background-position: -288px 0px;
@@ -8759,13 +8759,13 @@ button.toast-close-button {
   background-position: 0 0; }
 
 .jstree-default-large > .jstree-container-ul .jstree-loading > .jstree-ocl {
-  background: url("images/jstree/throbber.gif") center center no-repeat; }
+  background: url("images/jstree/throbber.html") center center no-repeat; }
 
 .jstree-default-large .jstree-file {
-  background: url("images/jstree/32px.png") -96px -64px no-repeat; }
+  background: url("images/jstree/32px.html") -96px -64px no-repeat; }
 
 .jstree-default-large .jstree-folder {
-  background: url("images/jstree/32px.png") -256px 0px no-repeat; }
+  background: url("images/jstree/32px.html") -256px 0px no-repeat; }
 
 .jstree-default-large > .jstree-container-ul > .jstree-node {
   margin-left: 0;
@@ -8777,7 +8777,7 @@ button.toast-close-button {
 
 #jstree-dnd.jstree-default-large .jstree-ok,
 #jstree-dnd.jstree-default-large .jstree-er {
-  background-image: url("images/jstree/32px.png");
+  background-image: url("images/jstree/32px.html");
   background-repeat: no-repeat;
   background-color: transparent; }
 
@@ -8821,11 +8821,11 @@ button.toast-close-button {
     width: 40px;
     height: 40px; }
   #jstree-dnd.jstree-dnd-responsive > .jstree-ok {
-    background-image: url("images/jstree/40px.png");
+    background-image: url("images/jstree/40px.html");
     background-position: 0 -200px;
     background-size: 120px 240px; }
   #jstree-dnd.jstree-dnd-responsive > .jstree-er {
-    background-image: url("images/jstree/40px.png");
+    background-image: url("images/jstree/40px.html");
     background-position: -40px -200px;
     background-size: 120px 240px; }
   #jstree-marker.jstree-dnd-responsive {
@@ -8841,7 +8841,7 @@ button.toast-close-button {
 	.jstree-closed > .jstree-ocl { border-radius:20px; background-color:white; }
 	*/ }
   .jstree-default-responsive .jstree-icon {
-    background-image: url("images/jstree/40px.png"); }
+    background-image: url("images/jstree/40px.html"); }
   .jstree-default-responsive .jstree-node,
   .jstree-default-responsive .jstree-leaf > .jstree-ocl {
     background: transparent; }
@@ -8920,7 +8920,7 @@ button.toast-close-button {
   .jstree-default-responsive .jstree-node > .jstree-ocl,
   .jstree-default-responsive .jstree-themeicon,
   .jstree-default-responsive .jstree-checkbox {
-    background-image: url("images/jstree/40px.png");
+    background-image: url("images/jstree/40px.html");
     background-size: 120px 240px; }
   .jstree-default-responsive .jstree-node {
     background-position: -80px 0;
@@ -8936,10 +8936,10 @@ button.toast-close-button {
     background-image: none;
     background-position: 0 0; }
   .jstree-default-responsive .jstree-file {
-    background: url("images/jstree/40px.png") 0 -160px no-repeat;
+    background: url("images/jstree/40px.html") 0 -160px no-repeat;
     background-size: 120px 240px; }
   .jstree-default-responsive .jstree-folder {
-    background: url("images/jstree/40px.png") -40px -40px no-repeat;
+    background: url("images/jstree/40px.html") -40px -40px no-repeat;
     background-size: 120px 240px; }
   .jstree-default-responsive > .jstree-container-ul > .jstree-node {
     margin-left: 0;
@@ -9635,8 +9635,8 @@ button.toast-close-button {
 /*# sourceMappingURL=chartist.css.map */
 @font-face {
   font-family: "socicon";
-  src: url("fonts/socicon/socicon.eot");
-  src: url("fonts/socicon/socicon.eot?#iefix") format("embedded-opentype"), url("fonts/socicon/socicon.woff") format("woff"), url("fonts/socicon/socicon.ttf") format("truetype"), url("fonts/socicon/socicon.svg#socicon") format("svg");
+  src: url("fonts/socicon/socicon.html");
+  src: url("fonts/socicon/socicond41d.html?#iefix") format("embedded-opentype"), url("fonts/socicon/socicon-2.html") format("woff"), url("fonts/socicon/socicon-3.html") format("truetype"), url("fonts/socicon/socicon-4.html#socicon") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -10176,8 +10176,8 @@ button.toast-close-button {
  * -------------------------- */
 @font-face {
   font-family: 'FontAwesome';
-  src: url("fonts/font-awesome/fontawesome-webfont.eot?v=4.7.0");
-  src: url("fonts/font-awesome/fontawesome-webfont.eot?#iefix&v=4.7.0") format("embedded-opentype"), url("fonts/font-awesome/fontawesome-webfont.woff2?v=4.7.0") format("woff2"), url("fonts/font-awesome/fontawesome-webfont.woff?v=4.7.0") format("woff"), url("fonts/font-awesome/fontawesome-webfont.ttf?v=4.7.0") format("truetype"), url("fonts/font-awesome/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular") format("svg");
+  src: url("fonts/font-awesome/fontawesome-webfont3e6e.html?v=4.7.0");
+  src: url("fonts/font-awesome/fontawesome-webfontd41d.html?#iefix&v=4.7.0") format("embedded-opentype"), url("fonts/font-awesome/fontawesome-webfont3e6e-2.html?v=4.7.0") format("woff2"), url("fonts/font-awesome/fontawesome-webfont3e6e-3.html?v=4.7.0") format("woff"), url("fonts/font-awesome/fontawesome-webfont3e6e-4.html?v=4.7.0") format("truetype"), url("fonts/font-awesome/fontawesome-webfont3e6e-5.html?v=4.7.0#fontawesomeregular") format("svg");
   font-weight: normal;
   font-style: normal; }
 
@@ -12518,15 +12518,15 @@ button.toast-close-button {
  */
 @font-face {
   font-family: "LineAwesome";
-  src: url("fonts/line-awesome/line-awesome.eot?v=1.1.");
-  src: url("fonts/line-awesome/line-awesome.eot??v=1.1.#iefix") format("embedded-opentype"), url("fonts/line-awesome/line-awesome.woff2?v=1.1.") format("woff2"), url("fonts/line-awesome/line-awesome.woff?v=1.1.") format("woff"), url("fonts/line-awesome/line-awesome.ttf?v=1.1.") format("truetype"), url("fonts/line-awesome/line-awesome.svg?v=1.1.#fa") format("svg");
+  src: url("fonts/line-awesome/line-awesomeeb4f.html?v=1.1.");
+  src: url("fonts/line-awesome/line-awesome0176.html??v=1.1.#iefix") format("embedded-opentype"), url("fonts/line-awesome/line-awesomeeb4f-2.html?v=1.1.") format("woff2"), url("fonts/line-awesome/line-awesomeeb4f-3.html?v=1.1.") format("woff"), url("fonts/line-awesome/line-awesomeeb4f-4.html?v=1.1.") format("truetype"), url("fonts/line-awesome/line-awesomeeb4f-5.html?v=1.1.#fa") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: "LineAwesome";
-    src: url("fonts/line-awesome/line-awesome.svg?v=1.1.#fa") format("svg"); } }
+    src: url("fonts/line-awesome/line-awesomeeb4f-5.html?v=1.1.#fa") format("svg"); } }
 
 /* Thanks to http://fontawesome.io @fontawesome and @davegandy */
 .la {
@@ -14647,15 +14647,15 @@ button.toast-close-button {
   	*/
 @font-face {
   font-family: "Flaticon";
-  src: url("fonts/flaticon/Flaticon.eot");
-  src: url("fonts/flaticon/Flaticon.eot?#iefix") format("embedded-opentype"), url("fonts/flaticon/Flaticon.woff") format("woff"), url("fonts/flaticon/Flaticon.ttf") format("truetype"), url("fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+  src: url("fonts/flaticon/Flaticon.html");
+  src: url("fonts/flaticon/Flaticond41d.html?#iefix") format("embedded-opentype"), url("fonts/flaticon/Flaticon-2.html") format("woff"), url("fonts/flaticon/Flaticon-3.html") format("truetype"), url("fonts/flaticon/Flaticon-4.html#Flaticon") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("fonts/flaticon/Flaticon.svg#Flaticon") format("svg"); } }
+    src: url("fonts/flaticon/Flaticon-4.html#Flaticon") format("svg"); } }
 
 [class^="flaticon-"]:before,
 [class*=" flaticon-"]:before {
@@ -15214,15 +15214,15 @@ button.toast-close-button {
  */
 @font-face {
   font-family: "Metronic";
-  src: url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.eot");
-  src: url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.eot?#iefix") format("embedded-opentype"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.woff2") format("woff2"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.woff") format("woff"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.ttf") format("truetype"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.svg#Metronic") format("svg");
+  src: url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.html");
+  src: url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774ad41d.html?#iefix") format("embedded-opentype"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a-2.html") format("woff2"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a-3.html") format("woff"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a-4.html") format("truetype"), url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a-5.html#Metronic") format("svg");
   font-weight: normal;
   font-style: normal; }
 
 @media screen and (-webkit-min-device-pixel-ratio: 0) {
   @font-face {
     font-family: "Metronic";
-    src: url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a.svg#Metronic") format("svg"); } }
+    src: url("fonts/metronic/Metronic_fda1334c35d0f5fe2afb3afebbb6774a-5.html#Metronic") format("svg"); } }
 
 [data-icons8]:before {
   content: attr(data-icons8); }
